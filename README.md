@@ -13,3 +13,6 @@ hf_oauth_expiration_minutes: 480
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+
+![image](https://github.com/user-attachments/assets/d7ef927e-24a8-4479-b10b-351b0c255279)
