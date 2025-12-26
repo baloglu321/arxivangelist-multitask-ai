@@ -12,12 +12,12 @@ Arxivangelist is an advanced multi-task AI agent system designed to answer diver
 
 ### Key Achievement
 - ✅ Successfully passed the 30% accuracy threshold requirement
-- 🏆 Ranked 3741st on the HuggingFace Agents Course leaderboard
+- 🏆 Ranked 3743st on the HuggingFace Agents Course leaderboard
 - 🎓 Completed as part of the HuggingFace Agents Course Unit 4
 
 ## 🎬 Demo
 
-![Agent Evaluation Results](https://github.com/baloglu321/arxivangelist-multitask-ai/blob/main/cca530fc-4052-43b2-b130-b30968d8aa44.png?raw=true)
+![Agent Evaluation Results](https://github.com/baloglu321/arxivangelist-multitask-ai/blob/main/screenshot.png?raw=true)
 
 *Screenshot showing the agent's performance on various task types including chess moves, trivia questions, and mathematical operations.*
 
@@ -78,10 +78,10 @@ graph TB
     M --> P
     M --> R
     
-    style A fill:#e1f5ff
-    style G fill:#ffe1e1
-    style H fill:#fff4e1
-    style N fill:#e8f5e9
+    style A fill:#e1f5ff,stroke:#333,stroke-width:3px,color:#000
+    style G fill:#ffe1e1,stroke:#333,stroke-width:3px,color:#000
+    style H fill:#fff4e1,stroke:#333,stroke-width:3px,color:#000
+    style N fill:#e8f5e9,stroke:#333,stroke-width:3px,color:#000
 ```
 
 ## ✨ Features
